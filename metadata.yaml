@@ -1,0 +1,36 @@
+_repo: Toinen-tai-toinen-naimaan-Ilveily-yhdessa-naytoksessa_52198
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hämäläinen, S. K.
+    alias: Hamalainen, S. K.
+    gutenberg_agent_id: '46723'
+    url: http://www.gutenberg.org/2009/agents/46723
+creator:
+  author:
+    agent_name: Wilhelmi, A. (Alexander)
+    aliases:
+    - Wilhelme, Alexander
+    - Wilhelmi, Alexander Victor
+    - Wilhelmi, Alexander
+    - Wilhelmi, A. V.
+    - Zechmeister, Alexander Victor
+    birthdate: 1817
+    deathdate: 1877
+    gutenberg_agent_id: '46722'
+    url: http://www.gutenberg.org/2009/agents/46722
+description: ''
+gutenberg_issued: '2016-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52198'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Toinen tai toinen naimaan: Ilveily yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/52198
